@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    bracket_builder/__main__.py
+    bracket_builder/_version.py
+    versioneer.py
+    tests/*
