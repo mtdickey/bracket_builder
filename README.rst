@@ -2,4 +2,4 @@
 bracket_builder
 ===============================
 
-Build interactive visualizations for tournaments.
+Build visualizations of brackets/tournaments.
